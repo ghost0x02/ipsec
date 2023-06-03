@@ -1,7 +1,5 @@
 import sys
 
-import os
-
 import requests
 
 import json
@@ -10,14 +8,7 @@ answer = True
 
 while answer:
 
-
-  
-print('''\033[2;33m
-
-
-     coded by enesxsec — ghost0x02                                                                                          
-
-
+    print('''\033[2;33m
 
     [1] IP ADRESİM
 
@@ -144,3 +135,5 @@ print('''\033[2;33m
         print("""HATALI SEÇİM
 
  """)
+                
+            
