@@ -10,8 +10,7 @@ answer = True
 
 while answer:
 
-while True:
-os.system("neofetch --ascii_distro blackarch")
+
   
 print('''\033[2;33m
 
