@@ -1,5 +1,7 @@
 import sys
 
+import os
+
 import requests
 
 import json
@@ -7,18 +9,9 @@ import json
 answer = True
 
 while answer:
-
-    print('''\033[2;33m
-
-
-
-
-
-
-
-
-
-
+os.system("neofetch --ascii_distro blackarch")
+  
+print('''\033[2;33m
 
 
      coded by enesxsec — ghost0x02                                                                                          
