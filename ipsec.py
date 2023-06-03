@@ -21,10 +21,7 @@ while answer:
 
 
 
-                                                                                                ██║██╔══██╗
-
-                                                                                             ██║██╔═══╝
-coded by enesxsec - ghost0x02 
+     coded by enesxsec — ghost0x02                                                                                          
 
 
 
