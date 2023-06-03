@@ -9,7 +9,8 @@ answer = True
 while answer:
 
     print('''\033[2;33m
-
+    coded by enesxsec - ghost0x02 
+    
     [1] IP ADRESİM
 
     [2] IP ADRESİ GÖZLEMLE
